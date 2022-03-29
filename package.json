@@ -1,0 +1,17 @@
+{
+  "name": "bookapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:cli": "newman run Simple_Books_API_collection.json",
+    "test:reporter":"newman run Simple_Books_API_collection.json --reporters cli,htmlextra"
+  },
+  "keywords": [],
+  "author": "Auntor Acharja",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.3.2",
+    "newman-reporter-htmlextra": "^1.22.7"
+  }
+}
