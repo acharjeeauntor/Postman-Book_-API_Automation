@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test:cli": "newman run Simple_Books_API_collection.json",
-    "test:reporter":"newman run Simple_Books_API_collection.json --reporters cli,htmlextra"
+    "report:clear":"if [ -d Reports ]; then rm -Rf Reports; fi",
+    "pretest": "npm run report:clear",
+    "test": "node index.js"
   },
   "keywords": [],
   "author": "Auntor Acharja",
