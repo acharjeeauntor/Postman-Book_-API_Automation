@@ -13,5 +13,5 @@ newman.run({
 
 }, function (err) {
     if (err) { throw err; }
-    console.log('collection run complete!');
+    console.log('Collection run complete!');
 });
