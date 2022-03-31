@@ -3,7 +3,7 @@ const newman = require('newman');
 newman.run({
     collection: require('./Collection/collection.json'), 
     environment: require('./Collection/environment.json'),
-    iterationCount: 3,
+    iterationCount: 1,
     reporters: ['cli','htmlextra'],
     reporter: {
         htmlextra: {

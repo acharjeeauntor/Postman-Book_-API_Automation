@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "report:clear":"if [ -d Report ]; then rm -Rf Report; fi",
-    "pretest": "npm run report:clear",
     "test": "node index.js"
   },
   "keywords": [],
