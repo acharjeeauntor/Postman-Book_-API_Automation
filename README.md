@@ -54,3 +54,8 @@ This repo contains Demo Book API Automation using postman and newman
 
 ## To See the Demo Video click [here](https://www.youtube.com/watch?v=cR1rp4J7UAs)
 
+----------------------------------------------------------
+
+## Github Action Related Info:<br>
+1. I have added github actions in this project to test my script in CI way <br>
+2. To See the Demo Video click [here](https://www.youtube.com/watch?v=jnvU4ebpy2o)<br>
