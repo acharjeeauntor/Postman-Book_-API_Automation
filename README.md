@@ -59,3 +59,10 @@ This repo contains Demo Book API Automation using postman and newman
 ## Github Action Related Info:<br>
 1. I have added github actions in this project to test my script in CI way <br>
 2. To See the Demo Video click [here](https://www.youtube.com/watch?v=jnvU4ebpy2o)<br>
+
+----------------------------------------------------------
+## Docker Related Info:<br>
+1. I have created a docker image to make the test script run easily. If the docker is installed on the user's Pc then the user can run this script very easy way without setup the node environment. Docker image will handle all the environment setup. This docker image will run the API script.This docker image was tested in Linux & Windows OS.<br>
+
+Docker image: https://hub.docker.com/r/auntoracharja/postman-book-api-automation <br>
+To See the Demo Video click [here](https://youtu.be/cFkWSptwKLo)<br>
