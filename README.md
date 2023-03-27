@@ -70,5 +70,5 @@ To See the Demo Video click [here](https://youtu.be/cFkWSptwKLo)<br>
 ----------------------------------------------------------
 
 ## Jenkins Related Info:<br>
-I have intregrate this automation project with the jenkins through the github repository
-To See the Demo Video click [here](https://youtu.be/S1SeGgnjNM4)<br>
+I have intregrate this automation project with the jenkins through the github repository. <br>
+To See the Demo Video click [here](https://youtu.be/NQxaS-uMbJk)<br>
