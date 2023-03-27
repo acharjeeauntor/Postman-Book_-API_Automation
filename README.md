@@ -66,3 +66,9 @@ This repo contains Demo Book API Automation using postman and newman
 
 Docker image: https://hub.docker.com/r/auntoracharja/postman-book-api-automation <br>
 To See the Demo Video click [here](https://youtu.be/cFkWSptwKLo)<br>
+
+----------------------------------------------------------
+
+## Jenkins Related Info:<br>
+I have intregrate this automation project with the jenkins through the github repository
+To See the Demo Video click [here](https://youtu.be/S1SeGgnjNM4)<br>
